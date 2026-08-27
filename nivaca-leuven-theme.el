@@ -25,7 +25,7 @@
 
 ;;; Commentary:
 
-;; The "nivaca-leuven" color theme is based on Leuven, with the same
+;; The "nivaca-leuven" color theme is based on Leuven by Fabrice Niessen, with the same
 ;; face definitions and color relationships, but with colors subtly darkened
 ;; for a softer, less glaring light-background appearance.
 
