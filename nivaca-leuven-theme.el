@@ -40,7 +40,7 @@
 ;; - Emacs 24 or later.
 
 ;; For more information and updates, visit the theme's GitHub repository at:
-;; https://github.com/fniessen/emacs-leuven-theme
+;; https://github.com/nivaca/nivaca-leuven-theme
 
 ;;; Code:
 
