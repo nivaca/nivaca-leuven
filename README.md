@@ -2,9 +2,9 @@
 
 An Emacs colour theme, based upon [Fabrice Niessen's Leuven theme](https://github.com/fniessen/emacs-leuven-theme).
 
-![Screenshot](img/01.png)
-![Screenshot](img/02.png)
-![Screenshot](img/03.png)
+![Screenshot1](img/01.png)
+![Screenshot2](img/02.png)
+![Screenshot3](img/03.png)
 
 ## Requirements
 
