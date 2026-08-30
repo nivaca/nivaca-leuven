@@ -29,28 +29,15 @@ Then add to your init file:
 (load-theme 'nivaca-leuven t)
 ```
 
-### With `use-package`
-
+### With `straight`
 ```elisp
 (use-package nivaca-leuven-theme
-  :straight nil
-  :no-require t
-  :init
-  (add-to-list 'custom-theme-load-path (expand-file-name "~/emacs/themes/"))
-  (load-theme 'nivaca-leuven t))
+  :straight (:type git
+                   :repo "https://github.com/nivaca/nivaca-leuven.git")
+  :config
+  (load-theme 'nivaca-leuven t)
+  )
 ```
-
-Two details matter here:
-
-- `:no-require t` is required. A theme file provides the *theme* feature
-  (`provide-theme`), not a package feature (`provide`), so the implicit
-  `require` that `use-package` would otherwise emit fails and the rest of
-  the declaration is silently skipped.
-- The code goes in `:init`, not `:config`. `:config` runs only after the
-  package is deemed loaded, which never happens for a theme file.
-
-If you do not use [straight.el](https://github.com/radian-software/straight.el),
-replace `:straight nil` with `:ensure nil`.
 
 ## Usage
 
