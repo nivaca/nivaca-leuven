@@ -5,6 +5,13 @@ Los cambios notables de nivaca-leuven-theme. El código está en
 etiquetas de versión ni versiones publicadas, así que las entradas llevan
 fecha.
 
+## 2026-11-20
+
+- La cabecera da como dirección del autor nicolasvaughan@proton.me, y su
+  `URL:` apunta a este repositorio
+  (https://github.com/nivaca/nivaca-leuven) y no al tema Leuven de
+  Fabrice Niessen; también se corrige el enlace del comentario.
+
 ## 2026-08-30
 
 - El README explica cómo instalar el tema con straight.el, desde el

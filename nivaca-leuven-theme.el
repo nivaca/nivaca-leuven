@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2003-2026 Free Software Foundation, Inc.
 
-;; Author: Nicolás Vaughan  <(concat "nivaca" at-sign "fastmail.com")>
-;; URL: https://github.com/fniessen/emacs-leuven-theme
+;; Author: Nicolás Vaughan <nicolasvaughan@proton.me>
+;; URL: https://github.com/nivaca/nivaca-leuven
 ;; Version: 1.0
 ;; Last-Updated: 2026-08-26 16:54
 ;; Keywords: color theme
@@ -40,7 +40,7 @@
 ;; - Emacs 24 or later.
 
 ;; For more information and updates, visit the theme's GitHub repository at:
-;; https://github.com/nivaca/nivaca-leuven-theme
+;; https://github.com/nivaca/nivaca-leuven
 
 ;;; Code:
 

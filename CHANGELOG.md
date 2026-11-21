@@ -4,6 +4,13 @@ All notable changes to nivaca-leuven-theme. The code is on
 [GitHub](https://github.com/nivaca/nivaca-leuven). The project has no
 version tags or releases, so the entries are dated.
 
+## 2026-11-20
+
+- The header gives the author's address as nicolasvaughan@proton.me,
+  and its `URL:` points to this repository
+  (https://github.com/nivaca/nivaca-leuven) instead of Fabrice Niessen's
+  Leuven theme; the link in the commentary is corrected too.
+
 ## 2026-08-30
 
 - The README explains how to install the theme with straight.el, from
